@@ -2,5 +2,5 @@
 
 ### How to use
 ```scala
-sbt new zio/zio-http-start.g8
+sbt new zio/zio-http.g8
 ```
